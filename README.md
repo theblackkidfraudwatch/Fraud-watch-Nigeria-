@@ -1,2 +1,45 @@
 # Fraud-watch-Nigeria-
-A website to report and expose scammers in Nigeria
+A website to report and expose scammers in Nigeria# 🛡️ Fraud Watch Nigeria
+
+**Exposing Scammers. Protecting Nigerians.**
+
+---
+
+## What Is This?
+
+Fraud Watch Nigeria is a website built to help Nigerians report scammers and avoid being scammed.
+
+Too many Nigerians lose money every day to fake investments, romance scams, fake vendors, and crypto scams. This project is here to stop that.
+
+## Common Scams We Fight
+
+- 📱 Fake Investment / Ponzi Schemes
+- 💕 Romance Scams
+- 🏦 Fake Bank Alerts
+- 🎓 Fake JAMB / Admission Scams
+- 🛒 Fake Online Vendors
+- 💻 Job & Crypto Scams
+
+## How To Report A Scam
+
+1. Take screenshot of the scammer's number / chat / account
+2. Send it to us on TikTok: @theblackkidfraudwatch
+3. We will verify and expose them to warn others
+
+## Built With
+
+- HTML
+- CSS
+
+## Founder
+
+**TheBlackKid** - Criminology Student, Abuja, Nigeria
+Founder of Fraud Watch Nigeria
+
+## Live Website
+
+👉 https://theblackkidfraudwatch.github.io/fraud-watch-nigeria/
+
+---
+
+⭐ If you believe in a scam-free Nigeria, star this repo and follow me.
